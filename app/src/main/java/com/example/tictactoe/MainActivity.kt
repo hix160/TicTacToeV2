@@ -9,6 +9,21 @@ import android.widget.Switch
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
+/*
+
+    Lai izveidotu šo spēli es sekoju līdzi video pamācībai.
+    Izveidojot pamata spēli, kur spēlēšanas veids bija "cilvēks pret cilveku", lai izveidotu
+    "cilvēks pret datoru" spēlēšanas veidu es modificēju un pievienoju MiniMax algoritmu
+    ko es ieguvu no GeeksForGeeks un to nedaudz pielāgoju.
+
+    MiniMax:
+    https://www.geeksforgeeks.org/finding-optimal-move-in-tic-tac-toe-using-minimax-algorithm-in-game-theory/
+
+    Video pamācība:
+    https://allcodingtutorial.blogspot.com/2022/12/how-to-make-tic-tac-toe-in-android.html
+
+ */
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var player1score: TextView
