@@ -9,4 +9,13 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_1">Player 1</string>
+    <string name="play_against_ai">Play against AI</string>
+    <string name="status">Status</string>
+    <string name="play_again">Play Again</string>
+    <string name="reset_game">Reset game</string>
+    <string name="_0">0</string>
+    <string name="_02">0</string>
 </resources>
