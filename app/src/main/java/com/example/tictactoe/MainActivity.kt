@@ -153,7 +153,7 @@ class MainActivity : AppCompatActivity() {
         for (i in buttons.indices) {
             gameState[i] = 2
             buttons[i].text = ""
-            buttons[i].setBackgroundColor(btnDfltCol)
+
         }
         status.text = "Status"
     }
